@@ -1,0 +1,2 @@
+This is a test to see how to upload files from my computer
+to the online repository clim680a.git
